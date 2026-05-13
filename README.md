@@ -3,3 +3,4 @@ Ferramenta de busca e gerenciamento de pesquisa e extensão.
 
 ## Membros
 Heitor de Mattos - 211055281
+Pedro Vale de Souza - 231038733
