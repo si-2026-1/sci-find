@@ -57,6 +57,11 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
   - Perfil do organizador;
   - Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
 
+## Requisitos Não Funcionais
+
+- Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
+- Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
+
 # Detalhes do Produto
 
 ## Aplicativo sci-find
