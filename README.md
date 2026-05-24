@@ -59,15 +59,23 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
 
 ## User Stories
 
-- Eu como usuário quero poder criar um perfil, integrando com o Sigaa, para que ue possa pegar meu histórico de disciplinas e meus dados pessoais.
+- Eu como usuário quero poder criar um perfil, integrando com o Sigaa, para que eu possa pegar meu histórico de disciplinas e meus dados pessoais.
 
 - Eu como professor quero poder manipular eventos para que os alunos possam participar.
+  
 - Eu como professor quero poder pegar as informações dos inscritos para que depois que terminar a inscrição dos eventos notifica-los sobre as próximas etapas.
+
+- Eu como aluno quero poder ter acesso a uma agenda que marcará todas as minhas atividades que quero participar para que eu possa organizar minha rotina acadêmica e não perder prazos importantes.
+
+- Eu como aluno quero poder ser notificado caso haja qualquer tipo de alteração nos eventos que irei participar, e também, se eu quiser ajudar em um evento lotado, receber uma notificação caso abra uma vaga para ajudar, assim eu posso ficar sempre atualizado posso ter chance de participar mesmo quando o evento estiver cheio.
 
 ## Requisitos Não Funcionais
 
 - Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
 - Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
+- Usabilidade: O sistema deve ser responsivo, adaptando-se a telas de desktop, tablet e celular.
+- Desenpenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
+
 
 # Detalhes do Produto
 
