@@ -57,6 +57,13 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
   - Perfil do organizador;
   - Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
 
+## User Stories
+
+- Eu como usuário quero poder criar um perfil, integrando com o Sigaa, para que ue possa pegar meu histórico de disciplinas e meus dados pessoais.
+
+- Eu como professor quero poder manipular eventos para que os alunos possam participar.
+- Eu como professor quero poder pegar as informações dos inscritos para que depois que terminar a inscrição dos eventos notifica-los sobre as próximas etapas.
+
 ## Requisitos Não Funcionais
 
 - Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
