@@ -60,12 +60,14 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
 ## User Stories
 
 - Eu como usuário quero poder criar um perfil, integrando com o Sigaa, para que eu possa pegar meu histórico de disciplinas e meus dados pessoais.
+- Eu, como usuário, quero receber lembretes 1 dia antes de um evento que me inscrevi ou que estou organizando, para não esquecer a data.
 
 - Eu como professor quero poder manipular eventos para que os alunos possam participar.
 - Eu como professor quero poder pegar as informações dos inscritos para que depois que terminar a inscrição dos eventos notifica-los sobre as próximas etapas.
+- Eu como professor quero definir os requisitos para que saibam que tipos de participantes eu busco para apoiar meu evento para que eu consiga selecionar colaboradores mais alinhados com as necessidades da minha atividade.
 
 - Eu como aluno quero poder ter acesso a uma agenda que marcará todas as minhas atividades que quero participar para que eu possa organizar minha rotina acadêmica e não perder prazos importantes.
-
+- Eu, como aluno, quero me candidatar para ser colaborador de um evento, para ajudar na produção e ganhar horas complementares.
 - Eu como aluno quero poder ser notificado caso haja qualquer tipo de alteração nos eventos que irei participar, e também, se eu quiser ajudar em um evento lotado, receber uma notificação caso abra uma vaga para ajudar, assim eu posso ficar sempre atualizado posso ter chance de participar mesmo quando o evento estiver cheio.
 
 ## Requisitos Não Funcionais
