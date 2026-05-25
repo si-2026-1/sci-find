@@ -62,7 +62,6 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
 - Eu como usuário quero poder criar um perfil, integrando com o Sigaa, para que eu possa pegar meu histórico de disciplinas e meus dados pessoais.
 
 - Eu como professor quero poder manipular eventos para que os alunos possam participar.
-  
 - Eu como professor quero poder pegar as informações dos inscritos para que depois que terminar a inscrição dos eventos notifica-los sobre as próximas etapas.
 
 - Eu como aluno quero poder ter acesso a uma agenda que marcará todas as minhas atividades que quero participar para que eu possa organizar minha rotina acadêmica e não perder prazos importantes.
@@ -73,9 +72,7 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
 
 - Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
 - Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
-- Usabilidade: O sistema deve ser responsivo, adaptando-se a telas de desktop, tablet e celular.
-- Desenpenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
-
+- Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
 
 # Detalhes do Produto
 
@@ -122,6 +119,6 @@ O sci-find será um aplicativo que contará com versões mobile e web voltado pa
 
 # Membros
 
-Heitor de Mattos - 211055281
-Pedro Vale de Souza - 231038733
-Arthur Arruda Frauches -241017728
+- Heitor de Mattos - 211055281
+- Pedro Vale de Souza - 231038733
+- Arthur Arruda Frauches -241017728
