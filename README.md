@@ -70,11 +70,18 @@ Inicialmente, o sistema será voltado para uso interno universitário, com futur
 - Eu, como aluno, quero me candidatar para ser colaborador de um evento, para ajudar na produção e ganhar horas complementares.
 - Eu como aluno quero poder ser notificado caso haja qualquer tipo de alteração nos eventos que irei participar, e também, se eu quiser ajudar em um evento lotado, receber uma notificação caso abra uma vaga para ajudar, assim eu posso ficar sempre atualizado posso ter chance de participar mesmo quando o evento estiver cheio.
 
+- Eu como aluno quero poder demonstar interesse em um evento para que possa receber notificações sobre o período de inscrição ou atualizações do evento.
+- Eu como aluno quero ser notificado quando abrir vagas em projetos de interesses conhecidos, para que eu não tenha que pesquisar sempre que abrir o portal.
+- Eu como aluno quero poder entrar em uma fila de espera caso acabe as vagas para que possa ser incluído em caso de desistência de outros ou não precise me inscrever novamente caso abra mais vagas.
+- Eu como professor quero ter acesso às informações dos inscritos para poder escolher os participantes de acordo com os requisitos do projeto.
+
 ## Requisitos Não Funcionais
 
 - Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
 - Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
 - Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
+- Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
+- Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.  
 
 # Detalhes do Produto
 
@@ -124,3 +131,4 @@ O sci-find será um aplicativo que contará com versões mobile e web voltado pa
 - Heitor de Mattos - 211055281
 - Pedro Vale de Souza - 231038733
 - Arthur Arruda Frauches -241017728
+- José Artur Nordestino Aguiar de Oliveira - 180020439
