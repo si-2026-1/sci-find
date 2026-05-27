@@ -133,3 +133,35 @@ Aqui estão listados os requisitos especificados para o aplicativo sci-find com 
     - O sistema envia automaticamente uma notificação (push/e‑mail) 24h antes do início de cada evento em que o usuário é participante ou organizador.
     - O usuário pode desativar esse lembrete nas configurações.
     - O lembrete contém link direto para a página do evento.
+
+# Épicos
+
+- **Épico 1** - Autenticação e Integração com SIGAA
+  - Descrição: Agrupa histórias relacionadas a login, criação de perfil e sincronização de dados acadêmicos.
+  - Histórias de Usuário:
+    - HU-01 - Criação de perfil integrado ao SIGAA
+    - HU-02 - Sincronização automática com o SIGAA
+
+- **Épico 2** - Gestão de Eventos (Professor/Organizador)
+  - Descrição: Agrupa histórias de criação, manipulação, definição de requisitos e acesso a informações de inscritos.
+  - Histórias de Usuário:
+    - HU-03 - Criar, editar e cancelar eventos
+    - HU-04 - Acesso à lista de inscritos para comunicação pós-inscrição
+    - HU-05 - Definição de perfil desejado para apoiadores do evento
+    - HU-06 - Visualização de perfil dos candidatos para escolha de participantes
+
+- **Épico 3** - Descoberta, Interesse e Participação (Aluno)
+  - Descrição: Agrupa histórias sobre agenda, candidatura a colaborador, demonstração de interesse, fila de espera e busca.
+  - Histórias de Usuário:
+    - HU-07 - Calendário com todos os eventos que o aluno deseja participar
+    - HU-08 - Candidatura voluntária para produção do evento
+    - HU-09 - Alerta proativo de novas vagas em áreas de interesse
+    - HU-10 - Lista de espera automática para eventos lotados
+    - HU-12 - Registrar interesse para receber atualizações
+
+- **Épico 4** - Lembretes e Notificações Personalizadas
+  - Descrição: Agrupa histórias sobre lembretes antes de eventos e preferências do usuário.
+  - Histórias de Usuário:
+    - HU-11 - Alertas de mudanças no evento e abertura de vagas para colaboradores
+    - HU-12 - Registrar interesse para receber atualizações
+    - HU-13 - Alerta prévio para eventos inscritos ou organizados
