@@ -1,4 +1,5 @@
 # Requisitos
+Aqui estão listados os requisitos especificados para o aplicativo sci-find com base no problema e escopo.
 
 ## Funcionalidades gerais
 
