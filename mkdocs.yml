@@ -1,0 +1,4 @@
+site_name: sci-find-doc
+
+theme:
+    name: material
