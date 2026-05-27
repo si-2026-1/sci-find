@@ -37,8 +37,8 @@ Aqui estão listados os requisitos especificados para o aplicativo sci-find com 
   - **RFSP-04.2** Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
 
 # Requisitos Não Funcionais
-- **RFN-01** Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
-- **RFN-02** Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
-- **RFN-03** Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
-- **RFN-04** Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
-- **RFN-05** Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
+- **RNF-01** Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
+- **RNF-02** Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
+- **RNF-03** Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
+- **RNF-04** Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
+- **RNF-05** Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
