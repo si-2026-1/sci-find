@@ -3,42 +3,42 @@ Aqui estão listados os requisitos especificados para o aplicativo sci-find com 
 
 ## Funcionalidades gerais
 
-- Centralização de postagens relacionadas a eventos e projetos acadêmicos;
-- Criação de eventos/projetos por professores ou organizadores;
-- Gerenciamento de eventos/projetos por professores ou organizadores;
-- Sistema de interesse/participação:
+- **RFG-01** Centralização de postagens relacionadas a eventos e projetos acadêmicos;
+- **RFG-02** Criação de eventos/projetos por professores ou organizadores;
+- **RFG-03** Gerenciamento de eventos/projetos por professores ou organizadores;
+- **RFG-04** Sistema de interesse/participação:
   
-  - Usuário pode demonstrar interesse em um evento;
-  - Caso vagas estejam esgotadas, o usuário pode entrar em lista de espera;
+  - **RFG-04.1** Usuário pode demonstrar interesse em um evento;
+  - **RFG-04.2** Caso vagas estejam esgotadas, o usuário pode entrar em lista de espera;
     
-- Notificações inteligentes:
+- **RFG-05** Notificações inteligentes:
   
-  - Avisos sobre abertura de vagas;
-  - Atualizações do evento/projeto;
-  - Lembretes próximos à data do evento.
+  - **RFG-05.1** Avisos sobre abertura de vagas;
+  - **RFG-05.2** Atualizações do evento/projeto;
+  - **RFG-05.3** Lembretes próximos à data do evento.
 
 ## Interação do usuário
 
-- Usuários poderão:
+- **RFIU-01** Usuários poderão:
   
-  - Explorar eventos por categorias;
-  - Visualizar as informações gerais sobre evento ou projeto;
-  - Filtrar por data, área de interesse ou tipo de atividade;
-  - Salvar eventos de interesse.
+  - **RFIU-01.1** Explorar eventos por categorias;
+  - **RFIU-01.2** Visualizar as informações gerais sobre evento ou projeto;
+  - **RFIU-01.3** Filtrar por data, área de interesse ou tipo de atividade;
+  - **RFIU-01.4** Salvar eventos de interesse.
 
 ## Sistema de perfis
 
-- Integração com o sistema acadêmico (ex: SIGAA);
-- Inscrição em evento utilizando o perfil de usuário;
-- Candidatura para a organização/produção de evento ou projeto utilizando o perfil de usuário;
-- Visualização de:
+- **RFSP-01** Integração com o sistema acadêmico (ex: SIGAA);
+- **RFSP-02** Inscrição em evento utilizando o perfil de usuário;
+- **RFSP-03** Candidatura para a organização/produção de evento ou projeto utilizando o perfil de usuário;
+- **RFSP-04** Visualização de:
   
-  - Perfil do organizador;
-  - Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
+  - **RFSP-04.1** Perfil do organizador;
+  - **RFSP-04.2** Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
 
 # Requisitos Não Funcionais
-- Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
-- Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
-- Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
-- Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
-- Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
+- **RFN-01** Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
+- **RFN-02** Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
+- **RFN-03** Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
+- **RFN-04** Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
+- **RFN-05** Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
