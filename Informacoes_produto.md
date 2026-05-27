@@ -16,4 +16,4 @@ Esse trecho contém todo o histórico de revisão e mudanças nesse documento, p
 | 24/05    | Arthur Arruda    | Criação de Requisitos Funcionais e Não Funcionais 3US 1RNF                              |
 | 26/05    | José Artur       | Criação de Requisitos Funcionais e Não Funcionais 4US 2RNF                              |
 | 27/05    | Pedro Vale       | Criação do arquivo Informações_Projeto                                                  |
-|          |                  |                                                                                         |
+| 27/05    | Arthur Arruda    | Formatação do documento(Adição e formatação dos épicos e das histórias de usuários)     |
