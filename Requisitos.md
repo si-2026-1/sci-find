@@ -3,7 +3,8 @@
 ## Funcionalidades
 
 - Centralização de postagens relacionadas a eventos e projetos acadêmicos;
-- Criação e gerenciamento de eventos/projetos por professores ou organizadores;
+- Criação de eventos/projetos por professores ou organizadores;
+- Gerenciamento de eventos/projetos por professores ou organizadores;
 - Sistema de interesse/participação:
   
   - Usuário pode demonstrar interesse em um evento;
