@@ -43,7 +43,7 @@ Aqui estão listados os requisitos especificados para o aplicativo sci-find com 
 - **RNF-04** Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
 - **RNF-05** Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
 
-#Histórias de Usuários
+# Histórias de Usuários
 - **HU-01**  - Título: Criação de perfil integrado ao SIGAA
  -História de usuário: Eu, como usuário, quero poder criar um perfil integrando com o SIGAA para que eu possa     pegar meu histórico de disciplinas e meus dados pessoais.
  -Critérios de Aceitação:
