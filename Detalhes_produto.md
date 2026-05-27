@@ -4,7 +4,7 @@
 
 O sci-find será um aplicativo que contará com versões mobile e web voltado para a divulgação e gerenciamento de eventos e projetos acadêmicos.
 
-## Funcionalidades adicionais
+## Detalhes adicionais relacionados às funcionalidades
 
 ### Calendário integrado
 - Permite ao usuário visualizar eventos em formato de calendário;
