@@ -1,6 +1,6 @@
 # Requisitos
 
-## Funcionalidades
+## Funcionalidades gerais
 
 - Centralização de postagens relacionadas a eventos e projetos acadêmicos;
 - Criação de eventos/projetos por professores ou organizadores;
@@ -34,3 +34,10 @@
   
   - Perfil do organizador;
   - Informações do participante (para validação, por parte do organizador, de candidatura para a organização/produção de evento ou projeto).
+
+# Requisitos Não Funcionais
+- Integridade: O sistema deve garantir a exatidão sobre os dados, independentemente de qualquer alteração.
+- Usabilidade: O sistema deve ser fácil aos usuários interagirem, isso significa, ter componentes bem explicados, design responsível e acessibilidade
+- Desempenho: O sistema deve suportar 1000 usuários simultâneos sem degradação significativa.
+- Confiabilidade: O sistema não deve passar mais que 2 horas fora do ar por falhas.
+- Segurança: Apenas pessoas autenticadas devem ter acesso às funcionalidades do sistema.
