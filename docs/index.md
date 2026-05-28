@@ -10,3 +10,4 @@ A documentação se divide em três tópicos principais:
 - **Problema**, que aborta a problemática que justifica o desenvolvimento do projeto, bem como o seu escopo;
 - **Requisitos**, que aborda os requisitos funcionais e não funcionais, além das histórias de usuário e seus respectivos épicos;
 - **Produto**, que contém detalhes técnicos adicionais sobre o produto, bem como o seu histórico de atualização. 
+- **Modelos**, que contém os modelos conceitual e lógico do produto. 
